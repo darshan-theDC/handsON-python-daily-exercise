@@ -1,8 +1,6 @@
 #madlibs game
 #word game where you create a story by filling the blanks with random words
 
-#approach : I've used f statement
-
 adjective1 = input("Enter any adjective : ")
 noun1 = input("Enter a noun : ")
 verb1 = input("Enter a verb : ")

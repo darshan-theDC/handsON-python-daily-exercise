@@ -22,6 +22,6 @@ To run these exercises, you need:
 ## 📌 Exercises List  
 | Exercise | Topic Covered |
 |----------|--------------|
-| [Exercise 1](exercises/exercise1.py) | User Input, Type Conversion, Arithmetic |
+| [Exercise 1](handsON-python-daily-exercise/exercise01.py) | User Input, Type Conversion, Arithmetic |
 | Exercise 2 | Coming soon... |
 | Exercise 3 | Coming soon... |

@@ -25,4 +25,5 @@ To run these exercises, you need:
 | [Exercise 1](https://github.com/darshan-theDC/handsON-python-daily-exercise/blob/main/exercise01.py) | User Input, Type Conversion, Arithmetic |
 | [Exercise 2](https://github.com/darshan-theDC/handsON-python-daily-exercise/blob/main/exercise02.py) | User Input, Type Conversion, String Formatting, Basic Arithmetic |
 | [Exercise 3](https://github.com/darshan-theDC/handsON-python-daily-exercise/blob/main/exercise03.py) | User Input, String Formatting, Basic Storytelling |
+| [Exercise 4](https://github.com/darshan-theDC/handsON-python-daily-exercise/blob/main/exercise04.py) | User Input, Math Module, Arithmetic Operations, Rounding Values |
 | Exercise N | Coming soon... |

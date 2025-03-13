@@ -27,4 +27,5 @@ To run these exercises, you need:
 | [Exercise 3](https://github.com/darshan-theDC/handsON-python-daily-exercise/blob/main/exercise03.py) | User Input, String Formatting, Basic Storytelling |
 | [Exercise 4](https://github.com/darshan-theDC/handsON-python-daily-exercise/blob/main/exercise04.py) | User Input, Math Module, Arithmetic Operations, Rounding Values |
 | [Exercise 5](https://github.com/darshan-theDC/handsON-python-daily-exercise/blob/main/exercise05.py) | User Input, Math Module, Pythagorean Theorem, Square Root Calculation |
+| [Exercise 6](https://github.com/darshan-theDC/handsON-python-daily-exercise/blob/main/exercise06.py) | User Input, Conditional Statements, Arithmetic Operations |
 | Exercise N | Coming soon... |

@@ -29,4 +29,5 @@ To run these exercises, you need:
 | [Exercise 5](https://github.com/darshan-theDC/handsON-python-daily-exercise/blob/main/exercise05.py) | User Input, Math Module, Pythagorean Theorem, Square Root Calculation |
 | [Exercise 6](https://github.com/darshan-theDC/handsON-python-daily-exercise/blob/main/exercise06.py) | User Input, Conditional Statements, Arithmetic Operations, Error Handling |
 | [Exercise 7](https://github.com/darshan-theDC/handsON-python-daily-exercise/blob/main/exercise07.py) | User Input, Conditional Statements, Unit Conversion, Arithmetic Operations |
+| [Exercise 8](https://github.com/darshan-theDC/handsON-python-daily-exercise/blob/main/exercise08.py) | User Input, Conditional Statements, Temperature Conversion, Arithmetic Operations |
 | Exercise N | Coming soon... |

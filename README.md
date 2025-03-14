@@ -31,4 +31,5 @@ To run these exercises, you need:
 | [Exercise 7](https://github.com/darshan-theDC/handsON-python-daily-exercise/blob/main/exercise07.py) | User Input, Conditional Statements, Unit Conversion, Arithmetic Operations |
 | [Exercise 8](https://github.com/darshan-theDC/handsON-python-daily-exercise/blob/main/exercise08.py) | User Input, Conditional Statements, Temperature Conversion, Arithmetic Operations |
 | [Exercise 9](https://github.com/darshan-theDC/handsON-python-daily-exercise/blob/main/exercise09.py) | User Input, String Validation, Conditional Statements, String Methods |
+| [Exercise 10](https://github.com/darshan-theDC/handsON-python-daily-exercise/blob/main/exercise10.py) | User Input, Loops, Conditional Validation, Arithmetic Operations, Compound Interest Formula |
 | Exercise N | Coming soon... |

@@ -33,5 +33,4 @@ To run these exercises, you need:
 | [Exercise 10](https://github.com/darshan-theDC/handsON-python-daily-exercise/blob/main/exercise10.py) | User Input, Loops, Conditional Validation, Arithmetic Operations, Compound Interest Formula |
 | [Exercise 11](https://github.com/darshan-theDC/handsON-python-daily-exercise/blob/main/exercise11.py) | User Input, Loops, Time Module, Countdown Timer, String Formatting |
 | [Exercise 12](https://github.com/darshan-theDC/handsON-python-daily-exercise/blob/main/exercise12.py) | User Input, Nested Loops, String Formatting, Pattern Printing |
-
 | Exercise N | Coming soon... |

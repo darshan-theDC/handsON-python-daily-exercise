@@ -1,4 +1,3 @@
-
 # 🚀 Python Learning Exercises  
 
 Welcome to this **Python learning series**! 🐍 Each exercise is designed to help beginners understand Python step by step.  
@@ -32,4 +31,6 @@ To run these exercises, you need:
 | [Exercise 8](https://github.com/darshan-theDC/handsON-python-daily-exercise/blob/main/exercise08.py) | User Input, Conditional Statements, Temperature Conversion, Arithmetic Operations |
 | [Exercise 9](https://github.com/darshan-theDC/handsON-python-daily-exercise/blob/main/exercise09.py) | User Input, String Validation, Conditional Statements, String Methods |
 | [Exercise 10](https://github.com/darshan-theDC/handsON-python-daily-exercise/blob/main/exercise10.py) | User Input, Loops, Conditional Validation, Arithmetic Operations, Compound Interest Formula |
+| [Exercise 11](https://github.com/darshan-theDC/handsON-python-daily-exercise/blob/main/exercise11.py) | User Input, Loops, Time Module, Countdown Timer, String Formatting |
+
 | Exercise N | Coming soon... |
